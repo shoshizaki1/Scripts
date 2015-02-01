@@ -1,0 +1,17 @@
+ファイルを編集した場合
+
+    git commit -a
+    git push
+
+新しくファイルを追加した場合
+
+    git add filename
+    git commit
+    git push
+
+ファイルを削除した場合
+
+    git rm filename
+    git commit
+    git push
+
