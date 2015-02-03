@@ -1,6 +1,9 @@
 クローンしたい場合
     git clone ssh://git@github.com/shoshizaki1/Scripts.git
 
+差分を確認したい場合
+    git remote show origin
+
 ファイルを編集した場合
     git commit -a
     git push
